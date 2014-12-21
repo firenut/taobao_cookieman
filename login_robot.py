@@ -1,4 +1,9 @@
 # -*- coding: utf-8 -*-
+# TaiBao CookieMan
+# by ManTianyang 2014
+
+
+
 import sys
 import os
 import md5
